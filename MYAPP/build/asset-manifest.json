@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a41e94d7.css",
+    "main.js": "/static/js/main.32659673.js",
+    "static/js/787.1513fb98.chunk.js": "/static/js/787.1513fb98.chunk.js",
+    "static/media/gadgets.jpg": "/static/media/gadgets.79c9e400f3bacc15e2d8.jpg",
+    "static/media/center.jpg": "/static/media/center.eb0d28e8cafd30079288.jpg",
+    "static/media/logo.jpg": "/static/media/logo.35ea3e97c35f78690281.jpg",
+    "static/media/homeappliance.jpg": "/static/media/homeappliance.953a6b624924f82d5e2a.jpg",
+    "static/media/switchboard2switch.jpeg": "/static/media/switchboard2switch.e5e64a8e1edb80df9515.jpeg",
+    "static/media/left.jpg": "/static/media/left.b3eac3ab777b31444fa3.jpg",
+    "static/media/laptop.png": "/static/media/laptop.7686593d9cd4d41f528d.png",
+    "static/media/coppercables.jpeg": "/static/media/coppercables.ae72b53c613ce23a9901.jpeg",
+    "static/media/laptop.jpeg": "/static/media/laptop.333e11cc590298ad847f.jpeg",
+    "static/media/ironwire.jpeg": "/static/media/ironwire.bb6bc02eb76f2e570985.jpeg",
+    "static/media/reena.jpg": "/static/media/reena.49f33058b182078667bf.jpg",
+    "static/media/electricalswitch.jpeg": "/static/media/electricalswitch.b5f05cd0d4612aeaa419.jpeg",
+    "static/media/telecomswitchboardcable.jpeg": "/static/media/telecomswitchboardcable.7278903ef0bafba63935.jpeg",
+    "static/media/tv.jpeg": "/static/media/tv.dfc8917b16b10113fa22.jpeg",
+    "static/media/electricalswitches.jpeg": "/static/media/electricalswitches.598d500645d9aa32b3b0.jpeg",
+    "static/media/electricalswitchboard.jpeg": "/static/media/electricalswitchboard.6324baad337a9feae4e8.jpeg",
+    "static/media/brasselectricswitchgear.jpeg": "/static/media/brasselectricswitchgear.02c0498def183c18d765.jpeg",
+    "index.html": "/index.html",
+    "main.a41e94d7.css.map": "/static/css/main.a41e94d7.css.map",
+    "main.32659673.js.map": "/static/js/main.32659673.js.map",
+    "787.1513fb98.chunk.js.map": "/static/js/787.1513fb98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41e94d7.css",
+    "static/js/main.32659673.js"
+  ]
+}
